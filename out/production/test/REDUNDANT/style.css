@@ -1,0 +1,10 @@
+Button {
+    fillColors: #000000, #707070;
+    color: #ffffff;
+    textRollOverColor: #0000ff;
+    themeColor: #00007f;
+}
+
+.SpecialLabelStyle {
+    color: #ff0000;
+}

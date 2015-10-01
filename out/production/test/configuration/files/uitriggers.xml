@@ -1,0 +1,7 @@
+<Triggers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="../triggersfile.xml.xsd">
+    <trigger name="pointer.click"      path="flash.events.MouseEvent.CLICK"/>
+    <trigger name="pointer.release"    path="flash.events.MouseEvent.MOUSE_UP"/>
+
+
+</Triggers>

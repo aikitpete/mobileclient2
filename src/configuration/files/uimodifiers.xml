@@ -1,0 +1,9 @@
+<ClassPaths xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="../classpathfile.xml.xsd">
+    <class name="capital" path="modifiers.CapitalModifier"/>
+    <class name="upper" path="modifiers.UppercaseModifier"/>
+    <class name="lower" path="modifiers.LowercaseModifier"/>
+
+
+
+</ClassPaths>

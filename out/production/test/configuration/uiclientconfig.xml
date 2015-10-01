@@ -1,0 +1,9 @@
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="configurationfile.xml.xsd">
+    <defaultdocumentspath value="configuration/files/defaultxmls.xml"/>
+    <defaultmodelspath value="configuration/files/defaultmodels.xml"/>
+    <uitriggerspath value="configuration/files/uitriggers.xml"/>
+    <uicomponentspath value="configuration/files/uicomponents.xml"/>
+    <uielementspath value="configuration/files/uielements.xml"/>
+    <uimodifierspath value="configuration/files/uimodifiers.xml"/>
+</Configuration>

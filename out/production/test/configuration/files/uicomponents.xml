@@ -1,0 +1,8 @@
+<ClassPaths xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="../classpathfile.xml.xsd">
+    <class name="public.media.still" path="components.media.Still"/>
+    <class name="public.button"      path="components.Button"/>
+    <class name="public.input"       path="components.Input"/>
+    <class name="public.text"        path="components.Text"/>
+
+</ClassPaths>
